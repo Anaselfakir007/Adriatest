@@ -19,6 +19,7 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
 
+//Activity for showing login view and get user if authentified or first user
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener,Loginview {
 private Loginpresenterimp presenter;
     private EditText email;

@@ -11,6 +11,7 @@ import com.adria.facebooktest.R;
 
 import java.util.ArrayList;
 
+//Adapter to show name of albums in Recyclerview
 public class GridAdapter extends RecyclerView.Adapter<GridAdapter.MyViewHolder> {
 
     private ArrayList<Album> albums;

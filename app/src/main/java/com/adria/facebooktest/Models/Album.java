@@ -1,5 +1,7 @@
 package com.adria.facebooktest.Models;
 
+
+//Data class for Album
 public class Album {
     String name;
 

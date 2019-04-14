@@ -36,6 +36,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
+//Activity to show loginButton of Facebook when user first login and if not show the albums
 public class AlbumsActivity extends AppCompatActivity implements Albumsview  {
 
 private RelativeLayout fbview;
