@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "649937295959",
+    "firebase_url": "https://adriatest-7e248.firebaseio.com",
+    "project_id": "adriatest-7e248",
+    "storage_bucket": "adriatest-7e248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649937295959:android:861fe3c944d7563d",
+        "android_client_info": {
+          "package_name": "com.adria.facebooktest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649937295959-vtacj85kpb84301uab0fmgulu97c2lds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adria.facebooktest",
+            "certificate_hash": "4ed51734670ab2769eec958d48e0256f47604b47"
+          }
+        },
+        {
+          "client_id": "649937295959-vo2edrjbm8clv73dng9hbnd5ce2asc9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9oecLi_UM7dxQUcnvVOZNqFvmsWGIvTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649937295959-vo2edrjbm8clv73dng9hbnd5ce2asc9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Adria-test</string>
+    <string name="facebook_app_id">1825298830867152</string>
+    <string name="login">Email</string>
+    <string name="passw">Password</string>
+    <string name="loginbutton">LOGIN/SIGN UP</string>
+</resources>
